@@ -1,7 +1,7 @@
 # Padestrian-Detection
 ### Padestrian Detection using HOG vector and Svm.
 
-This is the conversion of the matlab version in the Python. Please update if you find any issue or error.
+This is the port of the matlab version in Python programming language. Please update here if you find any issue or error.
 
 
 # Modules Requirements
@@ -17,7 +17,7 @@ This is the conversion of the matlab version in the Python. Please update if you
 - Input images have two sub folders having **positive** and **negative** samples in the different folders respectively.
 
 # How To Use
- Just run the Main.py. 
+ Just run Main.py. 
  You can understand the rest while using it for the first time.
  ### To execute
     python Main.py
@@ -32,4 +32,4 @@ Please [open an issue on GitHub](https://github.com/Griffintaur/Padestrian-Detec
   [![Donate](https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png)](https://www.paypal.me/kitabkalam/25usd)
 
 ## License
-The code is released under MIT license and free to use.
+The code is released under MIT license and is free to use.
